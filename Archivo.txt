@@ -1,0 +1,10 @@
+Práctica de Git y GitHub
+
+Esta práctica tiene como objetivo aprender a utilizar un repositorio
+público en GitHub y trabajar con diferentes ramas.
+
+Ramas utilizadas:
+- main: rama principal del proyecto.
+- dev: rama de desarrollo.
+
+Archivo creado como parte de la práctica.
